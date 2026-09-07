@@ -1,32 +1,27 @@
 ---
 title: "Teaching"
+layout: archive
 permalink: /teaching/
 author_profile: true
 ---
 
-## Teaching Experience
+{% include base_path %}
 
-### Econometrics and Stata Application
-- **Role**: Teaching Assistant
-- **Course Type**: Undergraduate course
-- **Venue**: East China Normal University, School of Geography
-- **Location**: Shanghai, China
-- **Year**: 2018
+## Econometrics and Stata Application
+**Undergraduate course** · East China Normal University, School of Geography · Shanghai, China
+Date: 2018
+Role: Teaching assistant
 
 ---
 
-### Urban Renewal and Urban Design
-- **Role**: Teaching Assistant
-- **Course Type**: Undergraduate course
-- **Venue**: The Hong Kong Polytechnic University, Department of Construction Management and Intelligence
-- **Location**: Hong Kong, China
-- **Year**: 2025
+## Urban Renewal and Urban Design
+**Undergraduate course** · The Hong Kong Polytechnic University, Department of Construction Management and Intelligence · Hong Kong, China
+Date: 2025
+Role: Teaching assistant
 
 ---
 
-### Place Audit
-- **Role**: Teaching Assistant
-- **Course Type**: Undergraduate course
-- **Venue**: The Hong Kong Polytechnic University, Department of Construction Management and Intelligence
-- **Location**: Hong Kong, China
-- **Year**: 2026
+## Place Audit
+**Undergraduate course** · The Hong Kong Polytechnic University, Department of Construction Management and Intelligence · Hong Kong, China
+Date: 2026
+Role: Teaching assistant
