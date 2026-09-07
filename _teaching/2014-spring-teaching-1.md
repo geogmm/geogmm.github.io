@@ -1,20 +1,32 @@
 ---
-title: "Teaching experience 1"
-collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+title: "Teaching"
+permalink: /teaching/
+author_profile: true
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+## Teaching Experience
 
-Heading 1
-======
+### Econometrics and Stata Application
+- **Role**: Teaching Assistant
+- **Course Type**: Undergraduate course
+- **Venue**: East China Normal University, School of Geography
+- **Location**: Shanghai, China
+- **Year**: 2018
 
-Heading 2
-======
+---
 
-Heading 3
-======
+### Urban Renewal and Urban Design
+- **Role**: Teaching Assistant
+- **Course Type**: Undergraduate course
+- **Venue**: The Hong Kong Polytechnic University, Department of Construction Management and Intelligence
+- **Location**: Hong Kong, China
+- **Year**: 2025
+
+---
+
+### Place Audit
+- **Role**: Teaching Assistant
+- **Course Type**: Undergraduate course
+- **Venue**: The Hong Kong Polytechnic University, Department of Construction Management and Intelligence
+- **Location**: Hong Kong, China
+- **Year**: 2026
