@@ -9,37 +9,29 @@ redirect_from:
 
 {% include base_path %}
 
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. in Economics, The Hong Kong Polytechnic University, China Hong Kong SAR, 09/2027 (expected)
+* MA in Human Geography, East China Normal University, China, 09/2019
+* BS in Human Geography, Jiangxi Normal University, China, 09/2016
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+**Guangdong Urban and Rural Planning and Design Institute, China** (06/2019 – 06/2024)  
+Senior Urban Planning Engineer
+* Land Spatial Planning of Dongguan (2020–2035)
+* Foshan Sanlongwan Innovation Industry Planning
+* Guangzhou–Foshan–Zhaoqing Metropolitan Area Planning (2020–2025)
+* Guangzhou-Dongguan-Shenzhen Innovation Corridor Planning (2020–2025)
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Network Analysis: Gephi, UCINET; complex network modelling and analysis.
+* Econometrics: Stata; econometric modelling, empirical analysis, and causal inference.
+* Machine Learning & AI: Python; machine learning, AI agent development (RAG knowledge base construction, Multi-agent architecture), web scraping, and data analysis.
+* Spatial Analysis: ArcGIS; spatial data analysis, mapping.
+* Languages: Mandarin (Native), Cantonese (Native); English (Professional Working Proficiency)
 
 Publications
 ======
@@ -58,7 +50,3 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
