@@ -1,8 +1,9 @@
 ---
-title: "Research Data and EcogeoAgent"
-
-collection: portfolio
+title: "Portfolio"
+permalink: /portfolio/
+author_profile: true
 ---
+
 
 **EcogeoAgent**
 EcogeoAgent is a multi-agent system I am developing to bridge AI and economic geography. It ingests user-uploaded spatial data and autonomously uncovers spatial relationships, interprets spatial evolution, and generates forecasts. The system comprises multiple specialised agents: a data-reading agent, a spatial-relationship analysis agent, a spatial modelling agent, and a spatial prediction agent. By orchestrating these agents, EcogeoAgent aims to offer a scalable, interpretable tool for researchers and policymakers to understand regional dynamics and anticipate future spatial patterns.
