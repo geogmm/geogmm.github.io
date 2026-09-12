@@ -12,9 +12,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Economics, The Hong Kong Polytechnic University, China Hong Kong SAR, 09/2027 (expected)
-* MA in Human Geography, East China Normal University, China, 09/2019
-* BS in Human Geography, Jiangxi Normal University, China, 09/2016
+* Ph.D. in Economics, The Hong Kong Polytechnic University, Hong Kong SAR, China, 09/2027 (expected)
+* M.A. in Human Geography, East China Normal University, China, 09/2019
+* B.S. in Human Geography, Jiangxi Normal University, China, 09/2016
 
 Work experience
 ======
